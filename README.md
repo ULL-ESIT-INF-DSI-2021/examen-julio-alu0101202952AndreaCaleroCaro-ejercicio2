@@ -16,4 +16,4 @@
 [![Coveralls](https://github.com/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2/actions/workflows/coveralls.yml/badge.svg)](https://github.com/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2/actions/workflows/coveralls.yml)
 
 - Sonar-Cloud:
-[![Sonar-Cloud](https://github.com/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2/actions/workflows/tests.yml/badge.svg)](https://github.com/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2/actions/workflows/tests.yml)
+[![Sonar-Cloud](https://github.com/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2/actions/workflows/sonar-cloud.yml/badge.svg)](https://github.com/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2/actions/workflows/sonar-cloud.yml)
