@@ -10,7 +10,7 @@
 
 
 - Coveralls:
-
+[![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2/badge.svg?branch=master)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2?branch=master)
 
 - Coveralls GitHub Actions:
 
