@@ -7,7 +7,7 @@
 
 ### Integración Continua
 - Test:
-
+[![Test](https://github.com/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2/actions/workflows/tests.yml/badge.svg)](https://github.com/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2/actions/workflows/tests.yml)
 
 - Coveralls:
 [![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2/badge.svg?branch=master)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2021/examen-julio-alu0101202952AndreaCaleroCaro-ejercicio2?branch=master)
