@@ -4,7 +4,7 @@
   "description": "- Alumna: Andrea Calero Caro - alu0101202952@ull.edu.es",
   "main": "index.js",
   "scripts": {
-    "start": "tsc-watch --onSuccess \"node dist/hola.js\"",
+    "start": "tsc-watch --onSuccess \"node dist/products.js\"",
     "doc": "typedoc",
     "test": "mocha",
     "coverage": "nyc npm test && nyc report --reporter=lcov"
